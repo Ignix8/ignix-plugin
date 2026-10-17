@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ignix": {
+      "type": "http",
+      "url": "https://app.ignix.social/api/mcp/claude"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ignix",
+  "description": "The official Ignix plugin: run your social media from Claude.",
+  "owner": {
+    "name": "Ignix",
+    "email": "support@ignix.social"
+  },
+  "plugins": [
+    {
+      "name": "ignix",
+      "source": "./",
+      "description": "Run your social media from Claude: plan and schedule posts, answer the inbox, automate comment-to-DM and get performance reports with Ignix."
+    }
+  ]
+}
