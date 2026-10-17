@@ -3,9 +3,26 @@
   "displayName": "Ignix",
   "version": "1.0.0",
   "description": "Run your social media from Claude: plan and schedule posts on Instagram, TikTok, LinkedIn, X, Facebook and more, answer the inbox in your brand voice, build comment-to-DM automations and get plain-language performance reports.",
-  "author": { "name": "Ignix", "email": "support@ignix.social", "url": "https://ignix.social" },
+  "author": {
+    "name": "Ignix",
+    "email": "support@ignix.social",
+    "url": "https://ignix.social"
+  },
   "homepage": "https://ignix.social",
   "repository": "https://github.com/Ignix8/ignix-plugin",
   "license": "MIT",
-  "keywords": ["social-media", "scheduling", "instagram", "tiktok", "inbox", "automation", "analytics", "mcp"]
+  "keywords": [
+    "social-media",
+    "scheduling",
+    "instagram",
+    "tiktok",
+    "inbox",
+    "automation",
+    "analytics",
+    "mcp"
+  ],
+  "documentationUrl": "https://ignix.social/help/mcp",
+  "supportUrl": "https://ignix.social/help",
+  "privacyPolicyUrl": "https://ignix.social/legal/privacy",
+  "termsOfServiceUrl": "https://ignix.social/legal/terms"
 }
