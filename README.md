@@ -17,7 +17,7 @@ Nothing that reaches a real person (a message, a reply, a published post) and no
 ## Install
 
 - **Claude (web, desktop, Cowork):** Customize → Plugins → Add, and add this repository.
-- **Claude Code:** `/plugin marketplace add Ignix8/ignix-claude-plugin` then `/plugin install ignix@ignix`.
+- **Claude Code:** `/plugin marketplace add Ignix8/ignix-plugin` then `/plugin install ignix@ignix`.
 
 On first use, connect the Ignix connector and sign in to your Ignix account. Ignix needs an active plan; new users get a 7-day free trial at [ignix.social](https://ignix.social).
 
