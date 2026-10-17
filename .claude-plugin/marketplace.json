@@ -9,7 +9,7 @@
     {
       "name": "ignix",
       "source": "./",
-      "description": "Run your social media from Claude: plan and schedule posts, answer the inbox, automate comment-to-DM and get performance reports with Ignix."
+      "description": "Social media manager for Claude: schedule posts on 13 networks, automate Instagram DMs and comment-to-DM, run one inbox and read analytics."
     }
   ]
 }
