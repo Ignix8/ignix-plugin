@@ -24,5 +24,6 @@
   "documentationUrl": "https://ignix.social/help/mcp",
   "supportUrl": "https://ignix.social/help",
   "privacyPolicyUrl": "https://ignix.social/legal/privacy",
-  "termsOfServiceUrl": "https://ignix.social/legal/terms"
+  "termsOfServiceUrl": "https://ignix.social/legal/terms",
+  "icon": "./.claude-plugin/icon.png"
 }
